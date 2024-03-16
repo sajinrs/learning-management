@@ -1,0 +1,21 @@
+.has-error .form-control {
+    border-color: #fb9678;
+    box-shadow: none !important;
+  }
+
+  .has-error .help-block {
+    color: #a94442;
+    font-size: 12px;
+  }
+
+h6.module-label {
+    color: #007bff;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.checkbox.inline-block {
+    display: inline-block;
+    margin-right: 20px;
+}
